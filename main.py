@@ -1,3 +1,4 @@
+# day 2 coding task, tip calculator
 total = input("What was the total bill? ")
 percentage = input("what percentage tip would you like to give? 10,12 or 15? ")
 people = input("How many people to split the bill? ")
